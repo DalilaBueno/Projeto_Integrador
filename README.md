@@ -16,7 +16,7 @@ No cenário sonoro do varejo, a eficiência no gerenciamento de vendas é crucia
 ### Nesta tela é apresentado o menu com as funções disponíveis para o sistema e suas funcionalidades.  
 ![Sistema_03](https://github.com/DalilaBueno/Sistema_Gerenciamento/assets/111694209/6481ce80-0e31-4e4b-834a-9be83d1b1e6e)
 
-Esta é uma prévia sobre o sistema, o restante encontrará acima no repositório.
+Esta é uma prévia do sistema, o restante encontrará acima no repositório.
 
 ## 🔍 Referências
 ### Livro em meio eletrônico:
