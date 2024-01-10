@@ -1,4 +1,4 @@
-# Sistema Gerenciador Vendas de Loja de Roupas
+# Sistema Gerenciador de Loja de Roupas
 
 Repositório para armazenar a documentação de um sistema de gerenciamento de vendas. Cursado 4° semestre em Análise e Desenvolvimento de Sistemas - Projeto Integrador, Orientado por Carlos Alberto Lucas, na Faculdade [Fatec Franca] (https://site.fatecfranca.edu.br/) 
 
